@@ -1,0 +1,20 @@
+{
+    "firstName": "kpsuparman",
+    "lastName": "joys",
+    "age": 42,
+    "address": {
+        "streetAddress": "latifah street",
+        "city": "bandung",
+        "postalCode": "40184"
+    },
+    "phoneNumbers": [
+        {
+            "type": "xiaomi",
+            "number": "0813-2111-7945"
+        },
+        {
+            "type": "home",
+            "number": "0813-2111-7945"
+        }
+    ]
+}
